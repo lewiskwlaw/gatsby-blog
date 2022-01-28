@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Lewis & Phooebe`,
+    title: `Lewis & Phoebe`,
     author: {
       name: `LK3B`,
-      summary: `Lewis & Phooebel's personal website.`,
+      summary: `Lewis & Phoebel's website.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A starter blog.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `lk3b`,
+      twitter: ``,
     },
   },
   plugins: [
