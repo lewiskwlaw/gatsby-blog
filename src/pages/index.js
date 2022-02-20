@@ -103,6 +103,7 @@ const IndexPage = () => {
           🎉🎉🎉
         </span>
       </h1>
+      <p> Hello, World!</p>
     </main>
   )
 }
