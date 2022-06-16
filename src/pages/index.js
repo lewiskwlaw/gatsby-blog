@@ -104,6 +104,9 @@ const IndexPage = () => {
         </span>
       </h1>
       <p> Hello, World!</p>
+      <a href="https:blog.lk3b.com">BLOG</a>
+      
+      
     </main>
   )
 }
